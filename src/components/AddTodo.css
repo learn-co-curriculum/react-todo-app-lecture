@@ -1,0 +1,17 @@
+.addTodo {
+  border: 2px solid black;
+  border-radius: 6px;
+  margin: 20px 20px 0;
+  width: 60%;
+  height: 40px;
+}
+
+.addTodoButton {
+  color: white;
+  background: blue;
+  border: none;
+  width: 25%;
+  margin: 20px 20px 0;
+  height: 30px;
+  border-radius: 6px;
+}

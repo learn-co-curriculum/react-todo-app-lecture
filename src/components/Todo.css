@@ -1,0 +1,9 @@
+.todo {
+  border: 2px solid black;
+  border-radius: 6px;
+  margin: 20px;
+}
+
+.destroyAll {
+  color: red;
+}
